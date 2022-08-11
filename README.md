@@ -1,0 +1,2 @@
+# APIRest-Exame-da-OAB-
+Este projeto visa disponiblizar dados estruturados do exame da OAB no formato JSON que é, atualmente, o formato preferível para intercâmbio de dados em reazão de sua simplicidade e facilidade de uso e de conversão. A inteface com o usuário se dá por meio de uma API REST de livre acesso. O público-alvo são todos aqueles interessados em ciência, análise e visualização de dados, juristas ou não.
